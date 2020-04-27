@@ -76,7 +76,7 @@ Example Data and Test Script
 And this is what we have in the data above::
 
  ├── atlas
- │   ├── aal.nii.gz
+ │   ├── aal.nii.gzdfgdfg
  │   ├── aal.nii.lut
  │   ├── aal.nii.txt
  │   ├── aal_roi_024.txt
